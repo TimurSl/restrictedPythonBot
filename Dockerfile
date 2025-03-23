@@ -1,5 +1,6 @@
 ﻿FROM python:3.12-slim
-
+RUN useradd -m botuser
+USER botuser
 # Устанавливаем рабочую директорию
 WORKDIR /app
 
