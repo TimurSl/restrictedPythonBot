@@ -1,0 +1,4 @@
+﻿asyncio~=3.4.3
+python-dotenv~=1.0.1
+RestrictedPython~=8.1a1.dev0
+aiogram~=3.19.0
